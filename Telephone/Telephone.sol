@@ -4,7 +4,7 @@ pragma solidity ^0.8.0;
 contract Telephone {
     address public owner;
 
-    constructor() public {
+    constructor() {
         owner = msg.sender;
     }
 
