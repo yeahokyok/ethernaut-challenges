@@ -1,0 +1,7 @@
+# Token
+
+before Solidity 0.8 a uint can be overflowed or underflowed
+
+```
+uint256(-1) is 115792089237316195423570985008687907853269984665640564039457584007913129639935
+```
