@@ -12,7 +12,7 @@
 -   [Re-entrancy](https://github.com/yeahokyok/ethernaut-challenges/tree/main/Reentrance)
 -   [Elevator](https://github.com/yeahokyok/ethernaut-challenges/tree/main/Elevator)
 -   [Privacy](https://github.com/yeahokyok/ethernaut-challenges/tree/main/Privacy)
--   Gatekeeper One
+-   [Gatekeeper One](https://github.com/yeahokyok/ethernaut-challenges/tree/main/GatekeeperOne)
 -   Gatekeeper Two
 -   Naught Coin
 -   [Preservation](https://github.com/yeahokyok/ethernaut-challenges/tree/main/Preservation)
