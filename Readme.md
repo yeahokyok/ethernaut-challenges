@@ -14,7 +14,7 @@
 -   [Privacy](https://github.com/yeahokyok/ethernaut-challenges/tree/main/Privacy)
 -   [Gatekeeper One](https://github.com/yeahokyok/ethernaut-challenges/tree/main/GatekeeperOne)
 -   [Gatekeeper Two](https://github.com/yeahokyok/ethernaut-challenges/tree/main/GatekeeperTwo)
--   Naught Coin
+-   [Naught Coin](https://github.com/yeahokyok/ethernaut-challenges/tree/main/NaughtCoin)
 -   [Preservation](https://github.com/yeahokyok/ethernaut-challenges/tree/main/Preservation)
 -   [Recovery](https://github.com/yeahokyok/ethernaut-challenges/tree/main/Recovery)
 -   [MagicNumber](https://github.com/yeahokyok/ethernaut-challenges/tree/main/MagicNumber)
