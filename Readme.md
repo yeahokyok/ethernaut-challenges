@@ -18,7 +18,7 @@
 -   [Preservation](https://github.com/yeahokyok/ethernaut-challenges/tree/main/Preservation)
 -   [Recovery](https://github.com/yeahokyok/ethernaut-challenges/tree/main/Recovery)
 -   [MagicNumber](https://github.com/yeahokyok/ethernaut-challenges/tree/main/MagicNumber)
--   Alien Codex
+-   [Alien Codex](https://github.com/yeahokyok/ethernaut-challenges/tree/main/AlienCodex)
 -   Denial
 -   Shop
 -   Dex
