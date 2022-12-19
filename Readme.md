@@ -19,7 +19,7 @@
 -   [Recovery](https://github.com/yeahokyok/ethernaut-challenges/tree/main/Recovery)
 -   [MagicNumber](https://github.com/yeahokyok/ethernaut-challenges/tree/main/MagicNumber)
 -   [Alien Codex](https://github.com/yeahokyok/ethernaut-challenges/tree/main/AlienCodex)
--   Denial
+-   [Denial](https://github.com/yeahokyok/ethernaut-challenges/tree/main/Denial)
 -   Shop
 -   Dex
 -   Dex Two
