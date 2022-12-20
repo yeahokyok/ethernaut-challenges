@@ -20,7 +20,7 @@
 -   [MagicNumber](https://github.com/yeahokyok/ethernaut-challenges/tree/main/MagicNumber)
 -   [Alien Codex](https://github.com/yeahokyok/ethernaut-challenges/tree/main/AlienCodex)
 -   [Denial](https://github.com/yeahokyok/ethernaut-challenges/tree/main/Denial)
--   Shop
+-   [Shop](https://github.com/yeahokyok/ethernaut-challenges/tree/main/Shop)
 -   Dex
 -   Dex Two
 -   Puzzle Wallet
