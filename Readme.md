@@ -21,7 +21,7 @@
 -   [Alien Codex](https://github.com/yeahokyok/ethernaut-challenges/tree/main/AlienCodex)
 -   [Denial](https://github.com/yeahokyok/ethernaut-challenges/tree/main/Denial)
 -   [Shop](https://github.com/yeahokyok/ethernaut-challenges/tree/main/Shop)
--   Dex
+-   [Dex](https://github.com/yeahokyok/ethernaut-challenges/tree/main/Dex)
 -   Dex Two
 -   Puzzle Wallet
 -   Motorbike
