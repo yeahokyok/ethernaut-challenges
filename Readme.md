@@ -22,7 +22,7 @@
 -   [Denial](https://github.com/yeahokyok/ethernaut-challenges/tree/main/Denial)
 -   [Shop](https://github.com/yeahokyok/ethernaut-challenges/tree/main/Shop)
 -   [Dex](https://github.com/yeahokyok/ethernaut-challenges/tree/main/Dex)
--   Dex Two
+-   [Dex Two](https://github.com/yeahokyok/ethernaut-challenges/tree/main/DexTwo)
 -   Puzzle Wallet
 -   Motorbike
 -   DoubleEntryPoint
